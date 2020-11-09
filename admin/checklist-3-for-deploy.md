@@ -1,8 +1,9 @@
-### [ GBDS Landmark Update 2021 ]
+#### [ GBDS Landmark Update 2021 ] [ checklist ]
 
-# checklist / for deployment
 
-## &#x2B1C; manuals
+# for deployment
+
+## &#x2B1C;&#x00A0; manuals
 <!--
 ```
 completed : yyyy-mm-dd
@@ -12,8 +13,9 @@ completed : yyyy-mm-dd
 * [ ] for-data-mgmt
 * [ ] for-dsg
 
+<br>
 
-## &#x2B1C; user guides
+## &#x2B1C;&#x00A0; user guides
 <!--
 ```
 completed : yyyy-mm-dd
@@ -25,8 +27,9 @@ completed : yyyy-mm-dd
 * [ ] part-2 : lm5 account
 * [ ] part-2 : dsg startup page
 
+<br>
 
-## &#x2B1C; rh7 update 
+## &#x2B1C;&#x00A0; rh7 update 
 
 <!--
 ## rh7 update  ![Colors](https://img.shields.io/badge/status-complete-8FC965?style=flat-square)
@@ -46,8 +49,9 @@ completed : yyyy-mm-dd
 
 <figcaption><sup>&#x2217; currently at the BEG</sup></figcaption>
 
+<br>
 
-## &#x2B1C; set lm5
+## &#x2B1C;&#x00A0; set lm5
 <!--
 ```
 completed : yyyy-mm-dd
@@ -62,8 +66,9 @@ completed : yyyy-mm-dd
 * [ ] MS
 * [ ] ZS
 
+<br>
 
-## &#x2B1C; set vnc
+## &#x2B1C;&#x00A0; set vnc
 <!--
 ```
 completed : yyyy-mm-dd

@@ -1,14 +1,9 @@
-### [ GBDS Landmark Update 2021 ]
+#### [ GBDS Landmark Update 2021 ] [ checklist ]
 
-# checklist / lm4 backups
-
-
+# lm4 backups
 
 
-
-
-
-## &#x2B1C; user configs
+## &#x2B1C;&#x00A0; user configs
 
 <!--
 ```

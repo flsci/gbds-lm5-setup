@@ -1,6 +1,6 @@
-### [ GBDS Landmark Update 2021 ]
+#### [ GBDS Landmark Update 2021 ] [ checklist ]
 
-# checklist / lm5 tests
+# lm5 tests
 
 WIP
 
