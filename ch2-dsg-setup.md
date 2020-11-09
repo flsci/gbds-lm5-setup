@@ -1,17 +1,9 @@
-### [ GBDS Landmark Update 2021 ]
+#### [ GBDS Landmark Update 2021 ] [ Part-2 ]
 
-## Part-2 : Setup DecisionSpace
-
-
-
-## make it go
-
+# Setup DecisionSpace
 
 <!-- [link-same-directory](./F2.md#section) -->
 <!-- [link-1-directory-up](../F2.md#section) -->
-
-<br>
-
 <!--
 ## Register for a Landmark Account
 
@@ -28,7 +20,9 @@ If you want to use access the DecisionSpace the new Learning tools
 
 -->
 
-## DecisionSapce Startup Page
+<br>
+
+## &#x2B1C;&#x00A0; DecisionSapce Startup Page
 
 ### Old DecisionSpace
 

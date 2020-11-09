@@ -1,9 +1,9 @@
-### [ GBDS Landmark Update 2021 ]
+#### [ GBDS Landmark Update 2021 ] [ Part-1 ]
 
 
-# Part-1 : Setup Landmark 5
+# Setup Landmark 5
 
-> These instructions outline part-1 in the process for `GBDS staff` to update their Linux user accounts to Landmark DSG 10ep4 and start using the new software.
+> These instructions outline `Part-1` in the process for `GBDS staff` to update their Linux user accounts to Landmark DSG 10ep4 and start using the new software.
 
 
 > &#x2217;&#x2217;&#x2217; Don't do `Part-1` alone.<br>
@@ -59,7 +59,7 @@
 </details>
 
 
-## Set lm5
+## &#x2B1C;&#x00A0; step-1 : Set lm5
 
 Connect to the VPN and authenticate using Cisco AnyConnect & the DUO app.
 
@@ -81,11 +81,11 @@ Connect to the VPN and authenticate using Cisco AnyConnect & the DUO app.
 </tr>
 </table>
 
+<br>
 
 ### 4. Open `.cshrc` with a text-editor (gedit, emacs, etc)
 
 &emsp; &#x2192; Right-click the file & "Open with..."
- 
 
 <blockquote>
 
@@ -94,16 +94,18 @@ Connect to the VPN and authenticate using Cisco AnyConnect & the DUO app.
 | Figure 1.2 : Location of `.cshrc` run-command file     |
 </blockquote>
 
-
+<br>
 
 ### 5. Edit `.cshrc` as follows:
 
 
-Right-click the `.cshrc` file + Open with a text-editor (gedit, emacs, etc)
+<br>
 
+### 6. <code>ctrl &#xFF28;</code> again to re-hide hidden files
 
-<code>ctrl &#xFF28;</code> again to re-hide hidden files
+<br>
 
+## &#x2B1C;&#x00A0; step-2 : Set VNC
 
 
 
