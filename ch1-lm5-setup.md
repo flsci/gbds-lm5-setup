@@ -24,7 +24,7 @@
 
 ### Deprecated
 
-> **Maintenance has expired for these applications, and they're no longer UT ISO no longer supports them:**
+> **Maintenance has expired for these applications, and UT ISO no longer supports them:**
 
 > * DecisionSpace 10ep.0.05
 > * OpenWorks 5000.10.2.0
