@@ -7,8 +7,8 @@ This repository contains instructions & supporting documents for `GBDS staff` to
 
 #### CONTENTS
 
-* [LM5 Setup](./ch1-lm5-setup)
-* [DSG Setup](./ch2-dsg-setup)
+* [Part-1 : LM5 Setup](/ch1-lm5-setup)
+* [Part-2 : DSG Setup](/ch2-dsg-setup)
 * [Manuals](manuals/)
 
 
