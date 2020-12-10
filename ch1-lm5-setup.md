@@ -9,55 +9,7 @@
 > &#x2217;&#x2217;&#x2217; Don't do `Part-1` alone.<br>
 > &emsp; &#x2192; To avoid data-loss, all GBDS users need to complete this step at the same time.
 
-
-<details>
-<summary style="font-size:1.0em">Background</summary>
-
-### Deployed
-
->
-![Linux](https://img.shields.io/badge/platform-rhel%206*%20|%20rhel%207-orange?style=flat-square&logo=red-hat)
-![OpenWorks](https://img.shields.io/badge/OpenWorks-5000.10.6.0-419B59?style=flat-square)
-![DecisionSpace](https://img.shields.io/badge/DecisionSpace-10ep.4.03-8FC965?style=flat-square)
-<br><sup>&#xFF0A; rhel 6 is being phased out, but is still available in limited capacity
-
-
-### Deprecated
-
-> **Maintenance has expired for these applications, and UT ISO no longer supports them:**
-
-> * DecisionSpace 10ep.0.05
-> * OpenWorks 5000.10.2.0
-> * Red Hat Enterprise Linux v6 (in-progress)
-
-### Shorthand + Abbreviations
-
->
-<table style="width:100%">
-  <tr>
-    <td><b>DSG</b></td>
-    <td>DecisionSpace Geoscience <br><sub>i.e. DecisionSpace (at some point Landmark added "Geoscience" to the name)</sub></td>
-  </tr>
-  <tr>
-    <td><b>lm4, lm5</b></td>
-    <td>Landmark4 & Landmark5 <br><sub> 	&#x2192; UTIG's internal naming convention for the deprecated & new versions, respectively</sub></td>
-  </tr>
-  <tr>
-    <td><b>10ep.x.xx</b></td>
-    <td>DecisionSpace version number</td>
-  </tr>
-  <tr>
-    <td><b>10ep</b></td>
-    <td>the version being deprecated (10ep.0.05) <br><sub>i.e. "Landmark4" , "lm4"</sub></td>
-  </tr>
-  <tr>
-    <td><b>10ep4</b></td>
-    <td>the version being deployed (10ep.4.03) <br><sub>i.e. "Landmark5" , "lm5"</sub></td></td>
-   </tr>
-</table>
-
-</details>
-
+<br>
 
 ## &#x2B1C;&#x00A0; step-1 : Set lm5
 
