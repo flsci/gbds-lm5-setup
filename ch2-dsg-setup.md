@@ -2,35 +2,75 @@
 
 # Setup DecisionSpace
 
-<!-- [link-same-directory](./F2.md#section) -->
-<!-- [link-1-directory-up](../F2.md#section) -->
-<!--
-## Register for a Landmark Account
-
-If you want to use access the DecisionSpace the new Learning tools
-
-<https://identity.halliburton.com/CustomSelfReg/register.jsp?xHalTemp=ienergy>
-
-
-<img src="../img/get-started/account-1-register.png" width="100%" />
-<img src="../img/get-started/account-2-login.png" width="100%" />
-<img src="../img/get-started/account-3-profile.png" width="100%" />
-<img src="../img/get-started/account-4-learning.png" width="100%" />
-<img src="../img/get-started/account-5-learning-library.png" width="100%" />
-
--->
+> These instructions outline `Part-2` in the process for `GBDS staff` to update their Linux user accounts to Landmark DSG 10ep4 and start using the new software.
 
 <br>
 
-## &#x2B1C;&#x00A0; DecisionSapce Startup Page
+## &#x2B1C;&#x00A0; step-1 : Verify lm5
+
+### 1. Use command : `which startow`
+
+```bash
+ig-895767.ig.utexas.edu 361% which startow
+/disk/landmark5/linux/Openworks/bin/startow
+ig-895767.ig.utexas.edu 362% 
+```
+
+<br>
+
+## &#x2B1C;&#x00A0; step-2 : DecisionSapce Startup Page
 
 ### Old DecisionSpace
 
-| <img src="../img/get-started/ep2-startup-page-1.png" width="100%"/> | <img src="../img/get-started/ep2-startup-page-2.png" width="100%"/> |
-|---------------------------------------------------------------------|---------------------------------------------------------------------|
+> #### Existing + New Sessions
+
+<table style="width:100%">
+<tr>
+  <td><img src="./img/ch2/step2/dsg-start-ep0-1.png" /></td>
+  <td><img src="./img/ch2/step2/dsg-start-ep0-2.png" /></td>
+</tr>
+<tr>
+  <td><b>Fig. 1.1 : Existing Sessions tab</b></td>
+  <td><b>Fig. 1.2 : New Session tab</b></td>
+</tr>
+</table>
+
+<br>
+
+> #### Session Parameters + Templates
+
+<table style="width:100%">
+<tr>
+  <td><img src="./img/ch2/step2/dsg-start-ep0-2.png" /></td>
+  <td><img src="./img/ch2/step2/dsg-start-ep0-3.png" /></td>
+</tr>
+<tr>
+  <td><b>Fig. 2.1 : Session Parameters tab</b></td>
+  <td><b>Fig. 2.2 : Templates tab</b></td>
+</tr>
+</table>
+
+<br>
 
 ### New DecisionSpace
 
-| <img src="../img/get-started/ep2-startup-page-1.png" width="100%"/> | <img src="../img/get-started/ep2-startup-page-2.png" width="100%"/> |
-|---------------------------------------------------------------------|---------------------------------------------------------------------|
+<table style="width:100%">
+<tr>
+  <td><img src="./img/ch2/step2/dsg-start-ep4-1.png" /></td>
+  <td><img src="./img/ch2/step2/dsg-start-ep4-2.png" /></td>
+</tr>
+<tr>
+  <td><b>Fig. 3.1 : Startup page</b></td>
+  <td><b>Fig. 3.2 : New Session setup</b></td>
+</tr>
+</table>
 
+<br>
+
+## &#x2B1C;&#x00A0; step-3 : Optional Landmark Account
+
+### To use the new DecisionSpace Learning tools, register for a Landmark User Account : [here](https://identity.halliburton.com/CustomSelfReg/register.jsp?xHalTemp=ienergy)
+
+
+
+<br>
