@@ -3,15 +3,14 @@
 
 # for deployment
 
-## &#x2B1C;&#x00A0; manuals
-<!--
-```
-completed : yyyy-mm-dd
-```
--->
+## &#x2611;&#x00A0; manuals
 
-* [ ] for-data-mgmt
-* [ ] for-dsg
+```
+completed : 2020-12-30
+```
+
+* [x] for-data-mgmt
+* [x] for-dsg
 
 <br>
 
