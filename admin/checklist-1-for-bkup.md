@@ -2,16 +2,15 @@
 
 # lm4 backups
 
+<br>
 
-## &#x2B1C;&#x00A0; user configs
+## &#x2B1C;&#x00A0; lm4 user sessions
 
 <!--
 ```
-completed : yyyy-mm-dd
+completed : 2021-mm-dd
 ```
 -->
-
-#### current staff
 
 <blockquote>
 
@@ -22,20 +21,41 @@ completed : yyyy-mm-dd
 * [ ] MP
 * [ ] MS
 * [ ] ZS
+
 </blockquote>
 
 <br>
+
+## &#x2611;&#x00A0; user configs
+
+```
+completed : 2021-01-27
+```
+
+#### current staff
+
+<blockquote>
+
+* [x] AW
+* [x] CF
+* [x] JS
+* [x] JV
+* [x] MP
+* [x] MS
+* [x] ZS
+
+</blockquote>
+
 
 #### other users
 
 <blockquote>
 
-* [ ] PMP
+* [x] PMP
 * [ ] RC
 * [ ] WG
+
 </blockquote>
-
-
 
 <!--
 x2B1C :white_large_square:
