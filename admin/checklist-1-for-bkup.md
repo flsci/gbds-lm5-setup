@@ -2,9 +2,17 @@
 
 # lm4 backups
 
+#### CONTENTS
+
+* [ow project data](#ow-project-data)
+* [ow system data](#ow-system-data)
+* [user configs](#user-configs)
+* [user sessions](#user-sessions)
+
 <br>
 
-## &#x2B1C;&#x00A0; lm4 user sessions
+
+## &#x2B1C;&#x00A0; ow project data
 
 <!--
 ```
@@ -12,17 +20,32 @@ completed : 2021-mm-dd
 ```
 -->
 
-<blockquote>
+> #### from : /disk/landmark4/OW\_PROJ\_DATA/GBDS\_ALL/GIS/
 
-* [ ] AW
-* [ ] CF
-* [ ] JS
-* [ ] JV
-* [ ] MP
-* [ ] MS
-* [ ] ZS
+* backup to /gbdsusr/DATA/lm4/bkups/
+* delete sr.lock files
 
-</blockquote>
+<br>
+
+## &#x2B1C;&#x00A0; ow system data
+
+<!--
+```
+completed : 2021-mm-dd
+```
+-->
+
+> #### from : /disk/landmark4/OW\_SYS\_DATA/
+
+* adthome/
+* color\_files/
+* dbautils/
+* header\_files/
+* owioformats/
+* owdlformats/
+* owsymbols/
+* OW\_SYS\_DATA\_20161230/
+* sqlutils/
 
 <br>
 
@@ -54,6 +77,28 @@ completed : 2021-01-27
 * [x] PMP
 * [ ] RC
 * [ ] WG
+
+</blockquote>
+
+<br>
+
+## &#x2B1C;&#x00A0; user sessions
+
+<!--
+```
+completed : 2021-mm-dd
+```
+-->
+
+<blockquote>
+
+* [ ] AW
+* [ ] CF
+* [ ] JS
+* [ ] JV (none needed)
+* [ ] MP
+* [ ] MS
+* [ ] ZS
 
 </blockquote>
 
