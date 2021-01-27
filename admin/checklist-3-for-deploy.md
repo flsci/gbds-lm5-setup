@@ -24,8 +24,9 @@ completed : yyyy-mm-dd
 
 * [ ] part-1 : set lm5
 * [ ] part-1 : set vnc
-* [ ] part-2 : lm5 account
+* [ ] part-2 : verify lm5
 * [ ] part-2 : dsg startup page
+* [ ] part-2 : lm5 account
 
 <br>
 
