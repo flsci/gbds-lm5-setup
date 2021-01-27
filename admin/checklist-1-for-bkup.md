@@ -12,13 +12,11 @@
 <br>
 
 
-## &#x2B1C;&#x00A0; ow project data
+## &#x2611;&#x00A0; ow project data
 
-<!--
 ```
-completed : 2021-mm-dd
+completed : 2021-01-27
 ```
--->
 
 > #### from : /disk/landmark4/OW\_PROJ\_DATA/GBDS\_ALL/GIS/
 
@@ -27,13 +25,11 @@ completed : 2021-mm-dd
 
 <br>
 
-## &#x2B1C;&#x00A0; ow system data
+## &#x2611;&#x00A0; ow system data
 
-<!--
 ```
-completed : 2021-mm-dd
+completed : 2021-01-27
 ```
--->
 
 > #### from : /disk/landmark4/OW\_SYS\_DATA/
 
