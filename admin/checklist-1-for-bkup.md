@@ -78,23 +78,21 @@ completed : 2021-01-27
 
 <br>
 
-## &#x2B1C;&#x00A0; user sessions
+## &#x2611;&#x00A0; user sessions
 
-<!--
 ```
-completed : 2021-mm-dd
+completed : 2021-01-29
 ```
--->
 
 <blockquote>
 
-* [ ] AW
-* [ ] CF
-* [ ] JS
+* [x] AW
+* [x] CF
+* [x] JS
 * [ ] JV (none needed)
-* [ ] MP
-* [ ] MS
-* [ ] ZS
+* [x] MP
+* [x] MS
+* [x] ZS
 
 </blockquote>
 
