@@ -3,6 +3,7 @@
 
 # for deployment
 
+
 ## &#x2611;&#x00A0; manuals
 
 ```
@@ -14,18 +15,18 @@ completed : 2020-12-30
 
 <br>
 
-## &#x2B1C;&#x00A0; user guides
-<!--
-```
-completed : yyyy-mm-dd
-```
--->
+## &#x2611;&#x00A0; user guides
 
-* [ ] part-1 : set lm5
-* [ ] part-1 : set vnc
-* [ ] part-2 : verify lm5
-* [ ] part-2 : dsg startup page
-* [ ] part-2 : lm5 account
+```
+completed : 2021-03-08
+```
+
+
+* [x] part-1 : set lm5
+* [x] part-1 : set vnc
+* [x] part-2 : verify lm5
+* [x] part-2 : dsg startup page
+* [x] part-2 : lm5 account
 
 <br>
 
