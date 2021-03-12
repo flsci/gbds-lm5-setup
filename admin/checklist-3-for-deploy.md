@@ -21,7 +21,6 @@ completed : 2020-12-30
 completed : 2021-03-08
 ```
 
-
 * [x] part-1 : set lm5
 * [x] part-1 : set vnc
 * [x] part-2 : verify lm5
@@ -42,11 +41,11 @@ completed : yyyy-mm-dd
 
 | GBDS Linux computers  | Location    | RHEL 7 update | Users  |
 |:----------------------|:------------|:--------------|:-------|
-| <ul><li>[ ] ig-838411 | CF          | yyyy-mm-dd    | CF     |
-| <ul><li>[ ] ig-875526 | GBDS right  | yyyy-mm-dd    | MS,MP* |
+| <ul><li>[x] ig-838411 | CF          | 2021-03-12    | CF     |
+| <ul><li>[x] ig-875526 | GBDS right  | 2021-03-10    | MS,MP* |
 | <ul><li>[ ] ig-883870 | JS          | yyyy-mm-dd    | JS     |
 | <ul><li>[ ] ig-883871 | GBDS left   | yyyy-mm-dd    | ZS     |
-| <ul><li>[ ] ig-895767 | GBDS center | yyyy-mm-dd    | AW     |
+| <ul><li>[x] ig-895767 | GBDS center | 2021-03-10    | AW     |
 
 <figcaption><sup>&#x2217; currently at the BEG</sup></figcaption>
 
