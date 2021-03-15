@@ -10,6 +10,7 @@ This repository contains instructions & supporting documents for `GBDS staff` to
 * [Part-1 : LM5 Setup](/ch1-lm5-setup.md)
 * [Part-2 : DSG Setup](/ch2-dsg-setup.md)
 * [Manuals](manuals/)
+* [Appendix](/chx-appendix)
 
 
 ## Environment
