@@ -9,14 +9,14 @@
 
 * [Linux rh7 Info](#linux-rh7-info)
   * [Remote Host ID Changed](#remote-host-id-changed)
-  * [Lockscreen + Login Page](#lockscreen-vs-login-page)
+  * [Lockscreen vs Login Page](#lockscreen-vs-login-page)
 
 <br>
 
 # Linux rh7 Info
 
 
-## &#x2B1C;&#x00A0; Remote Host ID Changed
+## Remote Host ID Changed
 
 
 > ### You may get this error the 1st time you try to connect to your remote computer after it gets updated to rh7:
@@ -49,7 +49,7 @@ ssh <user-name>@ig-<host-name>.ig.utexas.edu
 <br>
 
 
-## &#x2B1C;&#x00A0; Lockscreen vs Login Page
+## Lockscreen vs Login Page
 
 > #### Hit `enter` from the lockscreen to show the login fields:
 
