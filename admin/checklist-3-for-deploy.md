@@ -54,34 +54,34 @@ completed : yyyy-mm-dd
 ## &#x2B1C;&#x00A0; set lm5
 <!--
 ```
-completed : yyyy-mm-dd
+completed : 2021-03-dd
 ```
 -->
 
-* [ ] AW
-* [ ] CF
+* [x] AW
+* [x] CF
 * [ ] JS
 * [ ] JV
 * [ ] MP
 * [ ] MS
-* [ ] ZS
+* [x] ZS
 
 <br>
 
 ## &#x2B1C;&#x00A0; set vnc
 <!--
 ```
-completed : yyyy-mm-dd
+completed : 2021-03-dd
 ```
 -->
 
-* [ ] AW
-* [ ] CF
+* [x] AW
+* [x] CF
 * [ ] JS
 * [ ] JV
 * [ ] MP
 * [ ] MS
-* [ ] ZS
+* [x] ZS
 
 
 
