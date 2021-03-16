@@ -8,13 +8,34 @@
 
 ## &#x2B1C;&#x00A0; step-1 : Verify lm5
 
-### Use command : `which startow`
+### 1.1 &#x00A0; Use command : `which startow`
+
+> * Output should show `/disk/landmark5/linux/ ...etc`
 
 ```bash
+# EXAMPLE OUTPUT #
+
 ig-895767.ig.utexas.edu 361% which startow
 /disk/landmark5/linux/Openworks/bin/startow
 ig-895767.ig.utexas.edu 362% 
 ```
+<br>
+
+### 1.2 &#x00A0; Open terminal + Start OpenWorks:
+
+```bash
+vglrun startow
+```
+<br>
+
+<table style="width:100%">
+<tr>
+  <td><img src="./img/ch2/step1/verify-lm5-2.png" /></td>
+  <td><h3>Make sure the OW Command Menu shows <code>OWUTIG5</code></h3></td>
+</tr>
+</table>
+
+<img src="./img/ch2/step1/verify-lm5-1.png" />
 
 <br>
 
@@ -30,7 +51,7 @@ ig-895767.ig.utexas.edu 362%
   <td><img src="./img/ch2/step2/dsg-start-ep0-2.png" /></td>
 </tr>
 <tr>
-  <td><b>Figure 1 : (a)&#x00A0; Existing Sessions tab</b></td>
+  <td><b>Figure 1:&#x00A0; (a)&#x00A0; Existing Sessions tab</b></td>
   <td><b>(b)&#x00A0; New Session tab</b></td>
 </tr>
 </table>
@@ -45,7 +66,7 @@ ig-895767.ig.utexas.edu 362%
   <td><img src="./img/ch2/step2/dsg-start-ep0-3.png" /></td>
 </tr>
 <tr>
-  <td><b>Figure 2 : (a)&#x00A0; Session Parameters tab</b></td>
+  <td><b>Figure 2:&#x00A0; (a)&#x00A0; Session Parameters tab</b></td>
   <td><b>(b)&#x00A0; Templates tab</b></td>
 </tr>
 </table>
@@ -60,7 +81,7 @@ ig-895767.ig.utexas.edu 362%
   <td><img src="./img/ch2/step2/dsg-start-ep4-2.png" /></td>
 </tr>
 <tr>
-  <td><b>Figure 3 : (a)&#x00A0; Startup page</b></td>
+  <td><b>Figure 3:&#x00A0; (a)&#x00A0; Startup page</b></td>
   <td><b>(b)&#x00A0; New Session setup</b></td>
 </tr>
 </table>

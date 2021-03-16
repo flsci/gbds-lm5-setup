@@ -13,13 +13,13 @@
 
 ## &#x2B1C;&#x00A0; step-1 : Set lm5
 
-Connect to the VPN and authenticate using Cisco AnyConnect & the DUO app.
+> #### Connect to the VPN and authenticate using Cisco AnyConnect & the DUO app.
 
-### 1.1 Log into a Linux workstation
+### 1.1 &#x00A0; Log into a Linux workstation
 
-### 1.2 Open your `Home` folder
+### 1.2 &#x00A0; Open your `Home` folder
 
-### 1.3 Set file browser to show hidden files : `press ctrl H`
+### 1.3 &#x00A0; Set file browser to show hidden files : `press ctrl H`
 
 <blockquote>
 <table style="width:100%">
@@ -28,7 +28,7 @@ Connect to the VPN and authenticate using Cisco AnyConnect & the DUO app.
   <td><img src="./img/ch1/step1/set-lm5-2-browser-cshrc.png" /></td>
 </tr>
 <tr>
-  <td><b>Figure 1 : (a)&#x00A0; Before <code>ctrl-H</code></b></td>
+  <td><b>Figure 1:&#x00A0; (a)&#x00A0; Before <code>ctrl-H</code></b></td>
   <td><b>(b)&#x00A0; After <code>ctrl-H</code></b></td>
 </tr>
 </table>
@@ -36,7 +36,7 @@ Connect to the VPN and authenticate using Cisco AnyConnect & the DUO app.
 
 <br>
 
-### 1.4 Open `.cshrc` with a text-editor (gedit, emacs, etc)
+### 1.4 &#x00A0; Open `.cshrc` with a text-editor (gedit, emacs, etc)
 
 &emsp; &#x2192; Right-click the file & "Open with..."
 
@@ -44,12 +44,12 @@ Connect to the VPN and authenticate using Cisco AnyConnect & the DUO app.
 
 | <img src="./img/ch1/step1/set-lm5-3-edit-cshrc.png" /> |
 |--------------------------------------------------------|
-| Figure 2 : Location of `.cshrc` run-command file       |
+| Figure 2: Location of `.cshrc` run-command file        |
 </blockquote>
 
 <br>
 
-### 1.5 Edit `.cshrc` as follows:
+### 1.5 &#x00A0; Edit `.cshrc` as follows:
 
 > * change <code>&#x2003; set LANDMARK4</code> to <code># set LANDMARK4</code>
 > * change <code># set LANDMARK5</code> to <code>&#x2003; set LANDMARK5</code>
@@ -61,7 +61,7 @@ Connect to the VPN and authenticate using Cisco AnyConnect & the DUO app.
   <td><img src="./img/ch1/step1/set-lm5-5-edit-cshrc.png" /></td>
 </tr>
 <tr>
-  <td><b>Figure 3 : (a)&#x00A0; With <code>LANDMARK4</code>set</b></td>
+  <td><b>Figure 3:&#x00A0; (a)&#x00A0; With <code>LANDMARK4</code>set</b></td>
   <td><b>(b)&#x00A0; With <code>LANDMARK5</code>set</b></td>
 </tr>
 </table>
@@ -69,26 +69,25 @@ Connect to the VPN and authenticate using Cisco AnyConnect & the DUO app.
 
 <br>
 
-### 1.6 `ctrl H` again to re-hide hidden files
+### 1.6 &#x00A0; `ctrl H` again to re-hide hidden files
 
 <br>
 
 ## &#x2B1C;&#x00A0; step-2 : Set VNC
 
-### 2.1 Open terminal / command prompt
+### 2.1 &#x00A0; Open terminal / command prompt
 
 > * Do this from your home computer, not from a remote desktop
 
-<br>
 
-### 2.2 Connect to the UTIG remote server using `ssh`:
+### 2.2 &#x00A0; Connect to the UTIG remote server using `ssh`:
  
 ```bash
 ssh <your-user-name>@ig-<computer-name>.ig.utexas.edu
 ```
 <br>
 
-### 2.3 Enter your unix account password (not eid pw)
+### 2.3 &#x00A0; Enter your unix account password (not eid pw)
 
 > * FYI - The password field stays blank when you type
 > * Press `Enter` when done
@@ -96,7 +95,7 @@ ssh <your-user-name>@ig-<computer-name>.ig.utexas.edu
 
 <br>
 
-### 2.4 List your acitve `vncserver` sessions:
+### 2.4 &#x00A0; List your acitve `vncserver` sessions:
 
 ```bash
 vncserver -list
@@ -113,7 +112,7 @@ X DISPLAY #  PROCESS ID
 ```
 <br>
 
-### 2.5 Kill acitve `vncserver` sessions:
+### 2.5 &#x00A0; Kill acitve `vncserver` sessions:
 
 > * Repeat as needed to kill all sessions
 > * Use the display number(s) from step-4 &nbsp;&#x2192;&nbsp; including the `:`
@@ -124,19 +123,9 @@ vncserver -kill :<display-number>
 
 ```
 
-<!--
-<details>
-<summary><b>see video</b></summary>
-
-<video width="70%" controls loop>
-<source src="./img/ch1/step2/set-vnc-1-list-kill.mov">
-</video>
-</details>
--->
-
 <br>
 
-### 2.6 Close UTIG server connection : `press ctrl d`
+### 2.6 &#x00A0; Close UTIG server connection : `press ctrl d`
 
 ```bash
 # EXAMPLE OUTPUT #
@@ -145,10 +134,21 @@ ig-123456.ig.utexas.edu 363% logout
 Connection to ig-123456.ig.utexas.edu closed.
 ➜  ~
 ```
+<br>
+
+> ### [video] Watch steps 2.1–2.6
+
+<details>
+<summary><b>click to open</b></summary>
+
+![](./img/ch1/step2/set-vnc-1-kill.gif)
+
+</details>
 
 <br>
 
-### 2.7 Open new terminal window & Connect to UTIG server:
+
+### 2.7 &#x00A0; Open new terminal window & Connect to UTIG server:
 
 ```bash
 ssh <your-user-name>@ig-<computer-name>.ig.utexas.edu
@@ -158,7 +158,7 @@ ssh <your-user-name>@ig-<computer-name>.ig.utexas.edu
 
 <br>
 
-### 2.8 Start the VNC server:
+### 2.8 &#x00A0; Start the VNC server:
 
 ```bash
 vncserver
@@ -167,7 +167,21 @@ vncserver
 
 <br>
 
-### 2.9 Close UTIG server connection : `press ctrl d`
+### 2.9 &#x00A0; Close UTIG server connection : `press ctrl d`
+
+> * Then type `exit` to close terminal
+> * (or just quit the application)
+
+<br>
+
+> ### [video] Watch steps 2.7–2.9
+
+<details>
+<summary><b>click to open</b></summary>
+
+![](./img/ch1/step2/set-vnc-2-fresh.gif)
+
+</details>
 
 <!--
 <details>
