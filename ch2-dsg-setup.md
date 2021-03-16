@@ -8,7 +8,7 @@
 
 ## &#x2B1C;&#x00A0; step-1 : Verify lm5
 
-### 1. Use command : `which startow`
+### Use command : `which startow`
 
 ```bash
 ig-895767.ig.utexas.edu 361% which startow
@@ -30,8 +30,8 @@ ig-895767.ig.utexas.edu 362%
   <td><img src="./img/ch2/step2/dsg-start-ep0-2.png" /></td>
 </tr>
 <tr>
-  <td><b>Fig. 1.1 : Existing Sessions tab</b></td>
-  <td><b>Fig. 1.2 : New Session tab</b></td>
+  <td><b>Figure 1 : (a)&#x00A0; Existing Sessions tab</b></td>
+  <td><b>(b)&#x00A0; New Session tab</b></td>
 </tr>
 </table>
 
@@ -45,8 +45,8 @@ ig-895767.ig.utexas.edu 362%
   <td><img src="./img/ch2/step2/dsg-start-ep0-3.png" /></td>
 </tr>
 <tr>
-  <td><b>Fig. 2.1 : Session Parameters tab</b></td>
-  <td><b>Fig. 2.2 : Templates tab</b></td>
+  <td><b>Figure 2 : (a)&#x00A0; Session Parameters tab</b></td>
+  <td><b>(b)&#x00A0; Templates tab</b></td>
 </tr>
 </table>
 
@@ -60,8 +60,8 @@ ig-895767.ig.utexas.edu 362%
   <td><img src="./img/ch2/step2/dsg-start-ep4-2.png" /></td>
 </tr>
 <tr>
-  <td><b>Fig. 3.1 : Startup page</b></td>
-  <td><b>Fig. 3.2 : New Session setup</b></td>
+  <td><b>Figure 3 : (a)&#x00A0; Startup page</b></td>
+  <td><b>(b)&#x00A0; New Session setup</b></td>
 </tr>
 </table>
 
@@ -69,17 +69,17 @@ ig-895767.ig.utexas.edu 362%
 
 ## &#x2B1C;&#x00A0; step-3 : Optional Landmark Account
 
-### 1. To use the new DecisionSpace Learning tools, register for a Landmark User Account : [here](https://identity.halliburton.com/CustomSelfReg/register.jsp?xHalTemp=ienergy)
+### 3.1 To use the new DecisionSpace Learning tools, register for a Landmark User Account : [here](https://identity.halliburton.com/CustomSelfReg/register.jsp?xHalTemp=ienergy)
 
-### 2. Sign-in to an existing Landmark User Account : [here](https://www.landmark.solutions/)<br /><sub> &#x2192; see top-right of page for <code>Sign In</code></sub>
+### 3.2 Sign-in to an existing Landmark User Account : [here](https://www.landmark.solutions/)<br /><sub> &#x2192; see top-right of page for <code>Sign In</code></sub>
 
-### 3. Select `Resources` > `Learning`<br /><sub> &#x2192; the `About Us` tab is always red; the dropdown shown here is from the Resources tab</sub>
+### 3.3 Select `Resources` > `Learning`<br /><sub> &#x2192; the `About Us` tab is always red; the dropdown shown here is from the Resources tab</sub>
 
 > <img src="./img/ch2/step3/lm5-acct-4-learning.png" />
 
 <br>
 
-### 4. Scroll to bottom of `Learning` page to find link for `Documents Library`<br /><sub> &#x2192; or go use [this link](https://www.landmark.solutions/Resources/Learning/Document-Library) to go directly</sub>
+### 3.4 Scroll to bottom of `Learning` page to find link for `Documents Library`<br /><sub> &#x2192; or go use [this link](https://www.landmark.solutions/Resources/Learning/Document-Library) to go directly</sub>
 
 > <img src="./img/ch2/step3/lm5-acct-5-learning-library.png" />
 
