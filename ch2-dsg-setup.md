@@ -1,4 +1,4 @@
-#### [ GBDS Landmark Update 2021 ] [ Part-2 ]
+#### [ GBDS Landmark Update 2021 ] [ Guide 2 ]
 
 # Setup DecisionSpace
 
@@ -30,12 +30,12 @@ vglrun startow
 
 <table style="width:100%">
 <tr>
-  <td><img src="./img/ch2/step1/verify-lm5-2.png" /></td>
+  <td><img src="./img/guide1/step3/verify-lm5-2.png" /></td>
   <td><h3>Make sure the OW Command Menu shows <code>OWUTIG5</code></h3></td>
 </tr>
 </table>
 
-<img src="./img/ch2/step1/verify-lm5-1.png" />
+<img src="./img/guide1/step3/verify-lm5-1.png" />
 
 <br>
 
@@ -47,8 +47,8 @@ vglrun startow
 
 <table style="width:100%">
 <tr>
-  <td><img src="./img/ch2/step2/dsg-start-ep0-1.png" /></td>
-  <td><img src="./img/ch2/step2/dsg-start-ep0-2.png" /></td>
+  <td><img src="./img/guide2/startup-window/startup-ep0-1.png" /></td>
+  <td><img src="./img/guide2/startup-window/startup-ep0-2.png" /></td>
 </tr>
 <tr>
   <td><b>Figure 1:&#x00A0; (a)&#x00A0; Existing Sessions tab</b></td>
@@ -62,8 +62,8 @@ vglrun startow
 
 <table style="width:100%">
 <tr>
-  <td><img src="./img/ch2/step2/dsg-start-ep0-2.png" /></td>
-  <td><img src="./img/ch2/step2/dsg-start-ep0-3.png" /></td>
+  <td><img src="./img/guide2/startup-window/startup-ep0-2.png" /></td>
+  <td><img src="./img/guide2/startup-window/startup-ep0-3.png" /></td>
 </tr>
 <tr>
   <td><b>Figure 2:&#x00A0; (a)&#x00A0; Session Parameters tab</b></td>
@@ -77,8 +77,8 @@ vglrun startow
 
 <table style="width:100%">
 <tr>
-  <td><img src="./img/ch2/step2/dsg-start-ep4-1.png" /></td>
-  <td><img src="./img/ch2/step2/dsg-start-ep4-2.png" /></td>
+  <td><img src="./img/guide2/startup-window/startup-ep4-1.png" /></td>
+  <td><img src="./img/guide2/startup-window/startup-ep4-2.png" /></td>
 </tr>
 <tr>
   <td><b>Figure 3:&#x00A0; (a)&#x00A0; Startup page</b></td>
@@ -96,11 +96,11 @@ vglrun startow
 
 ### 3.3 Select `Resources` > `Learning`<br /><sub> &#x2192; the `About Us` tab is always red; the dropdown shown here is from the Resources tab</sub>
 
-> <img src="./img/ch2/step3/lm5-acct-4-learning.png" />
+> <img src="./img/guide2/register/account-4-learning.png" />
 
 <br>
 
 ### 3.4 Scroll to bottom of `Learning` page to find link for `Documents Library`<br /><sub> &#x2192; or go use [this link](https://www.landmark.solutions/Resources/Learning/Document-Library) to go directly</sub>
 
-> <img src="./img/ch2/step3/lm5-acct-5-learning-library.png" />
+> <img src="./img/guide2/register/account-5-library.png" />
 
