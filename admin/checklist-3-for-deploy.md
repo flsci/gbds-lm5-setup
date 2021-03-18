@@ -51,19 +51,18 @@ completed : yyyy-mm-dd
 
 <br>
 
-## &#x2B1C;&#x00A0; set lm5
-<!--
+## &#x2611;&#x00A0; set lm5
+
 ```
-completed : 2021-03-dd
+completed : 2021-03-16
 ```
--->
 
 * [x] AW
 * [x] CF
-* [ ] JS
+* [x] JS
 * [ ] JV
-* [ ] MP
-* [ ] MS
+* [ ] MP (currently at BEG)
+* [x] MS
 * [x] ZS
 
 <br>
@@ -79,8 +78,8 @@ completed : 2021-03-dd
 * [x] CF
 * [ ] JS
 * [ ] JV
-* [ ] MP
-* [ ] MS
+* [ ] MP (currently at BEG)
+* [x] MS
 * [x] ZS
 
 
