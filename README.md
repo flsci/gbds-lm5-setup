@@ -5,6 +5,20 @@
 
 This repository contains instructions & supporting documents for `GBDS staff` to update their Linux user accounts to Landmark DSG 10ep4 and start using the new software.
 
+Please skim this README file, and read through the `Part-1` and `Part-2` instructions before starting the update process.
+
+
+### Introduction
+
+These documents are interactive, so links, images, and gifs are clickable. Some links navigate to items in the repository & some navigate to external websites.
+
+* Use the links listed in the `CONTENTS` section below to navigate through the material;
+
+* Click an image or gif to open the full-sized version in a new window or tab;
+
+* You can view the manuals, but don’t download them from here — they’ll be available on our internal servers once the updates are finished.
+
+
 #### CONTENTS
 
 * [Part-1 : LM5 Setup](/ch1-lm5-setup.md)
@@ -30,7 +44,24 @@ This repository contains instructions & supporting documents for `GBDS staff` to
 > * OpenWorks 5000.10.2.0
 > * Red Hat Enterprise Linux v6 (in-progress)
 
+
+### RH7 Lockscreen vs Login Page
+
+> #### Hit `enter` from the lockscreen to show the login fields:
+
+<table style="width:100%">
+<tr>
+  <td><img src="./img/chx/rh7-lockscreen-1.png"/></td>
+  <td><img src="./img/chx/rh7-lockscreen-2.png"/></td>
+</tr>
+<tr>
+  <td><b>rh7 Lockscreen</b></td>
+  <td><b>rh7 Login page</b></td>
+</tr>
+</table>
+
 <br>
+
 
 ## Abbreviations + Shorthand
 
