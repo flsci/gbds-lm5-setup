@@ -19,8 +19,8 @@
 
 <table style="width:100%">
 <tr>
-  <td><img src="./img/guide1/step1/file-browser-1.png" /></td>
-  <td><img src="./img/guide1/step1/file-browser-2-cshrc.png" /></td>
+  <td><img src="../../img/guide1/step1/file-browser-1.png" /></td>
+  <td><img src="../../img/guide1/step1/file-browser-2-cshrc.png" /></td>
 </tr>
 <tr>
   <td><b>Figure 1:&#x00A0; (a)&#x00A0; Before <code>ctrl-h</code></b></td>
@@ -34,7 +34,7 @@
 
 <table style="width:100%">
 <tr>
-  <td><img src="./img/guide1/step1/file-browser-3-cshrc.png" /></td>
+  <td><img src="../../img/guide1/step1/file-browser-3-cshrc.png" /></td>
 </tr>
 <tr>
   <td><b>Figure 2: Location of <code>.cshrc</code> run-command file</b></td>
@@ -51,8 +51,8 @@
 
 <table style="width:100%">
 <tr>
-  <td><img src="./img/guide1/step1/edit-cshrc-1.png" /></td>
-  <td><img src="./img/guide1/step1/edit-cshrc-2.png" /></td>
+  <td><img src="../../img/guide1/step1/edit-cshrc-1.png" /></td>
+  <td><img src="../../img/guide1/step1/edit-cshrc-2.png" /></td>
 </tr>
 <tr>
   <td><b>Figure 3:&#x00A0; (a)&#x00A0; With <code>LANDMARK4</code>set</b></td>

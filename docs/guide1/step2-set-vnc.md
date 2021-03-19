@@ -66,7 +66,7 @@ Connection to ig-123456.ig.utexas.edu closed.
 <blockquote>
 <details><summary><b>[video] Watch steps 2.0–2.5</b></summary>
 
-![](./img/guide1/step2/set-vnc-1-kill.gif)
+![](../../img/guide1/step2/set-vnc-1-kill.gif)
 
 </details>
 </blockquote>
@@ -94,7 +94,7 @@ vncserver
 <blockquote>
 <details><summary><b>[video] Watch steps 2.6–2.8</b></summary>
 
-![](./img/guide1/step2/set-vnc-2-fresh.gif)
+![](../../img/guide1/step2/set-vnc-2-fresh.gif)
 
 </details>
 </blockquote>
