@@ -39,6 +39,6 @@
 
 <hr>
 
-[ Return to : [DSG Guide](/dsg-guide.md) ]
+[ Return to : [DSG Guide](./dsg-guide.md) ]
 
 

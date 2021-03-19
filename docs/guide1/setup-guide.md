@@ -13,6 +13,6 @@
 
 ### Setup LM5:
 
-* [Step-1 : Set LM5](/step1-set-lm5.md)
-* [Step-2 : Reset VNC](/step2-set-vnc.md)
-* [Step-3 : Verify LM5](/step3-verify-lm5.md)
+* [Step-1 : Set LM5](./step1-set-lm5.md)
+* [Step-2 : Reset VNC](./step2-set-vnc.md)
+* [Step-3 : Verify LM5](./step3-verify-lm5.md)

@@ -68,6 +68,6 @@
 
 <hr>
 
-### &#x21B3; Start Step-2 : [Reset VNC](/step2-set-vnc.md)
+### &#x21B3; Start Step-2 : [Reset VNC](./step2-set-vnc.md)
 
 <br>

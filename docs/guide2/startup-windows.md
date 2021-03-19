@@ -56,7 +56,7 @@
 
 <hr>
 
-[ Return to : [DSG Guide](/dsg-guide.md) ]
+[ Return to : [DSG Guide](./dsg-guide.md) ]
 
-### &#x21B3; Next : [Import Existing Sessions](/import-lm4-sessions.md)
+### &#x21B3; Next : [Import Existing Sessions](./import-lm4-sessions.md)
 

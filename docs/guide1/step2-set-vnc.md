@@ -101,6 +101,6 @@ vncserver
 
 <hr>
 
-### &#x21B3; Start Step-3 : [Verify LM5](/step3-verify-lm5.md)
+### &#x21B3; Start Step-3 : [Verify LM5](./step3-verify-lm5.md)
 
 <br>

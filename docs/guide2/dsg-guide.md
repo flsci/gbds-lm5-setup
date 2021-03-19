@@ -14,6 +14,6 @@
 
 ### DSG Guide:
 
-* [LM4 vs LM5 Startup Windows](/startup-windows.md)
-* [Import Existing Sessions](/import-lm4-sessions.md)
-* [Landmark User Account](/landmark-account.md)
+* [LM4 vs LM5 Startup Windows](./startup-windows.md)
+* [Import Existing Sessions](./import-lm4-sessions.md)
+* [Landmark User Account](./landmark-account.md)
