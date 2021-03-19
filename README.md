@@ -8,7 +8,11 @@ This repository contains instructions & supporting documents for `GBDS staff` to
 Please skim this README file, and read through the `Guide-1` instructions before starting the update process.
 
 
-### Introduction
+### &#xFF0A;Update : Now available as an easy-to-use [wiki page](https://github.com/flsci/gbds-lm5-setup/wiki)
+
+<br>
+
+## Introduction
 
 These documents are interactive, so links, images, and gifs are clickable. Some links navigate to items in the repository & some navigate to external websites.
 
