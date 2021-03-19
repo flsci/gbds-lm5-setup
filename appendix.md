@@ -21,7 +21,7 @@
 
 > ### You may get this error the 1st time you try to connect to your remote computer after it gets updated to rh7:
 
-<img src="./img/chx/ssh-keys-error.png" />
+<img src="./img/ssh-keys-error.png" />
 
 ### 1. To fix, run `ssh-keygen` in your shell:
 
@@ -55,8 +55,8 @@ ssh <user-name>@ig-<host-name>.ig.utexas.edu
 
 <table style="width:100%">
 <tr>
-  <td><img src="./img/chx/rh7-lockscreen-1.png"/></td>
-  <td><img src="./img/chx/rh7-lockscreen-2.png"/></td>
+  <td><img src="./img/rh7-lockscreen-1.png"/></td>
+  <td><img src="./img/rh7-lockscreen-2.png"/></td>
 </tr>
 <tr>
   <td><b>rh7 Lockscreen</b></td>

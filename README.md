@@ -28,7 +28,7 @@ These documents are interactive, so links, images, and gifs are clickable. Some 
 * [Part-1 : LM5 Setup](docs/guide1/setup-guide.md)
 * [Part-2 : DSG Setup](docs/guide2/dsg-guide.md)
 * [Manuals](manuals/)
-* [Appendix](/chx-appendix.md)
+* [Appendix](/appendix.md)
 
 
 ## Environment
