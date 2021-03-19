@@ -4,8 +4,8 @@
 ## step-1:&#x00A0; Set LM5 in your `.cshrc` file
 
 > ### Reminder:
-> &#x2217;&#x2217;&#x2217; Don't do `Step-1` alone.<br>
-> &emsp;&#x2192; To avoid data-loss, all GBDS users need to complete this step at the same time.
+> &#x2217;&#x2217;&#x2217; Don't do `Step-1` alone<br>
+> &emsp;&#x2192; To avoid data-loss, all GBDS users need to complete this step at the same time
 
 
 ### 1.0&#x00A0; Connect to the VPN and authenticate using Cisco AnyConnect & the DUO app
@@ -66,6 +66,8 @@
 
 ### 1.7&#x00A0; Quit TurboVNC or other VNC viewer
 
-### 1.8&#x00A0; [Go to Step-2](/step2-set-vnc.md)
+<hr>
+
+### &#x21B3; Start Step-2 : [Reset VNC](/step2-set-vnc.md)
 
 <br>

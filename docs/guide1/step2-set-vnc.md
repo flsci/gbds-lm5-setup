@@ -99,7 +99,8 @@ vncserver
 </details>
 </blockquote>
 
+<hr>
 
-### 2.9&#x00A0; [Go to Step-3](/step3-verify-lm5.md)
+### &#x21B3; Start Step-3 : [Verify LM5](/step3-verify-lm5.md)
 
 <br>
