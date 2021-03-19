@@ -5,7 +5,7 @@
 
 This repository contains instructions & supporting documents for `GBDS staff` to update their Linux user accounts to Landmark DSG 10ep4 and start using the new software.
 
-Please skim this README file, and read through the `Part-1` and `Part-2` instructions before starting the update process.
+Please skim this README file, and read through the `Guide-1` instructions before starting the update process.
 
 
 ### Introduction
@@ -21,8 +21,8 @@ These documents are interactive, so links, images, and gifs are clickable. Some 
 
 #### CONTENTS
 
-* [Part-1 : LM5 Setup](/ch1-lm5-setup.md)
-* [Part-2 : DSG Setup](/ch2-dsg-setup.md)
+* [Part-1 : LM5 Setup](docs/guide1/setup-guide.md)
+* [Part-2 : DSG Setup](docs/guide2/dsg-guide-ep4.md)
 * [Manuals](manuals/)
 * [Appendix](/chx-appendix.md)
 
@@ -51,8 +51,8 @@ These documents are interactive, so links, images, and gifs are clickable. Some 
 
 <table style="width:100%">
 <tr>
-  <td><img src="./img/chx/rh7-lockscreen-1.png"/></td>
-  <td><img src="./img/chx/rh7-lockscreen-2.png"/></td>
+  <td><img src="./img/rh7-lockscreen-1.png"/></td>
+  <td><img src="./img/rh7-lockscreen-2.png"/></td>
 </tr>
 <tr>
   <td><b>rh7 Lockscreen</b></td>
