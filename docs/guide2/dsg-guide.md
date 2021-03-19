@@ -7,7 +7,7 @@
 
 
 > ### Reminder:
-> &#x2217;&#x2217;&#x2217; Don't start `Guide-2` until `Guide-1` is complete, and LM5 is verfied<br>
+> &#x2217;&#x2217;&#x2217; Don't start `Guide-2` until `Guide-1` is complete, and `LM5` is verified <br>
 > &emsp;&#x2192; To avoid data-loss, all GBDS users need to complete `Guide-1` before anyone can use `LM5`
 
 <br>
