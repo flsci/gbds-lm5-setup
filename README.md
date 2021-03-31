@@ -27,7 +27,7 @@ These documents are interactive, so links, images, and gifs are clickable. Some 
 
 * [Part-1 : LM5 Setup](docs/guide1/setup-guide.md)
 * [Part-2 : DSG Setup](docs/guide2/dsg-guide.md)
-* [Manuals](manuals/)
+* Manuals (migrated to internal)
 * [Appendix](/appendix.md)
 
 
@@ -107,11 +107,14 @@ Content created by the [project owner](https://github.com/flsci) uses the Creati
 
 ## Made With
 
-<table>
+<table style="width:60%">
 <tr>
-<td><b>badges</b><br >&#x2023;&#x00A0;<a href="https://forthebadge.com/">For the Badge</a><br >&#x2023;&#x00A0;<a href="https://shields.io/">Shields IO</a><br >&#x2023;&#x00A0;<a href="https://simpleicons.org/">Simple Icons</a></td>
-<td><b>images</b><br >&#x2023;&#x00A0;<a href="https://www.ffmpeg.org/">ffmpeg</a><br >&#x2023;&#x00A0;<a href="https://imagemagick.org/index.php">ImageMagick</a><br >&#x2023;&#x00A0;<a href="https://tinypng.com/">TinyPNG</a></td>
-<td><b>text</b><br >&#x2023;&#x00A0;<a href="https://graphemica.com/">Graphemica</a><br >&#x2023;&#x00A0;<a href="https://macdown.uranusjr.com/">MacDown</a><br >&#x2023;&#x00A0;<a href="https://www.sublimetext.com/">SublimeText</a></td>
+  <td><b>badges</b><br >&#x2023;&#x00A0;<a href="https://forthebadge.com/">For the Badge</a><br >&#x2023;&#x00A0;<a href="https://shields.io/">Shields IO</a><br >&#x2023;&#x00A0;<a href="https://simpleicons.org/">Simple Icons</a> &#x2003;&#x2003; &#x2003;&#x2003;
+  </td>
+  <td><b>images</b><br >&#x2023;&#x00A0;<a href="https://www.ffmpeg.org/">ffmpeg</a><br >&#x2023;&#x00A0;<a href="https://imagemagick.org/index.php">ImageMagick</a><br >&#x2023;&#x00A0;<a href="https://tinypng.com/">TinyPNG</a> &#x2003;&#x2003; &#x2003;&#x2003;
+  </td>
+  <td><b>text</b><br >&#x2023;&#x00A0;<a href="https://graphemica.com/">Graphemica</a><br >&#x2023;&#x00A0;<a href="https://macdown.uranusjr.com/">MacDown</a><br >&#x2023;&#x00A0;<a href="https://www.sublimetext.com/">SublimeText</a> &#x2003;&#x2003; &#x2003;&#x2003;
+  </td>
 </tr>
 </table>
 
